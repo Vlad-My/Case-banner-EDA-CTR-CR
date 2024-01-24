@@ -26,6 +26,13 @@ https://www.wordstream.com/blog/ws/2023/05/15/google-ads-benchmarks
 Shopping, Collectibles & Gifts (CTR: 6.39%, CR: 3.69%)
 Sports & Recreation (CTR: 10.53%, CR: 5.69%)
 
+<p align="left" width="100%">
+    <img width="100%" src="CTR by platform.png">
+</p>
+
+<p align="left" width="100%">
+    <img width="100%" src="CR by platform.png">
+</p>
 - Баннеры категории "company" не конвертируются в заказы - необходимо доп. исследование несут ли такие баннеры имиджевую ценность.
 - Возможно от company стоит отказаться в пользу показа баннеров продуктов или обсудить опцию продажи показов баннеров партнёров в этом слоте.
 - На первом месте по CTR и CR находятся баннеры из категории "clothes" 18% и 9,5% соответственно
